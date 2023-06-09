@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rozimurat</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.codimaths.com/assets/images/course/python%20gif.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozimuratkbtu&label=Profile%20views&color=0e75b6&style=flat" alt="rozimuratkbtu" /> </p>
 
 - 🌱 I’m currently learning **Java Backend Development**
