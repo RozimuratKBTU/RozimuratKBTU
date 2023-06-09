@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [rozimuradmirpulatov101@gmail.com](rozimuradmirpulatov101@gmail.com)
 
-- 💬 Ask me about **python,c++,java**
+- 💬 Ask me about **python, c++, java**
 
 - 👯 I’m looking to collaborate on **on any web-project**
 
