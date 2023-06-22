@@ -1,24 +1,26 @@
-
-
 <h1 align="center">Hi 👋, I'm Rozimurat</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozimuratkbtu&label=Profile%20views&color=0e75b6&style=flat" alt="rozimuratkbtu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rozimuratkbtu" alt="rozimuratkbtu" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java Backend Development**
 
 - 📫 How to reach me [rozimuradmirpulatov101@gmail.com](rozimuradmirpulatov101@gmail.com)
 
-- 💬 Ask me about **python, c++, java**
+- 💬 Ask me about **python,java,c++**
 
-- 👯 I’m looking to collaborate on **on any web-project**
+- 👯 I’m looking to collaborate **on any web-project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rozimurat-mirpulatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rozimurat-mirpulatov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rozimurat-mirpulatov-64aa07271/71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rozimurat-mirpulatov-64aa07271/71" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20959071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20959071" height="30" width="40" /></a>
 <a href="https://instagram.com/mirpulatov_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirpulatov_7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rozimuradmirpulatov101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rozimuradmirpulatov101" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
