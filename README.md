@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me [rozimuradmirpulatov101@gmail.com](rozimuradmirpulatov101@gmail.com)
 
-- 💬 Ask me about **python,java,c++**
+- 💬 Ask me about **python, c++**
 
 - 👯 I’m looking to collaborate **on any web-project**
 
